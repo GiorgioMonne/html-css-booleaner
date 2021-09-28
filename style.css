@@ -1,0 +1,14 @@
+body{
+}
+
+header{
+    background-image: url(C:\Users\1999g\OneDrive\Documenti\Boolean\timberners\html-css-booleaner\img\pattern.png);
+    background-repeat: repeat-x;
+}
+
+img{
+    width: 200px;
+    height: auto;
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
