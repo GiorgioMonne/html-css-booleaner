@@ -54,7 +54,11 @@ tr{
 
 tr:nth-child(even) {    background-color: white;}
 
+.interesse{
+    color: grey;
+}
 
+/* Scusate ma alcune cose non riesco a farle:(...a domani */
 
 
 
