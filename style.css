@@ -32,3 +32,30 @@ header{
     font-size: 12px;
 }
 
+table{
+text-align: justify;
+}
+
+td{
+    vertical-align: central;
+    height: 32%;
+    width: 33%;
+}
+
+thead{
+    background-color: rgb(36, 129, 192);
+    color: white;
+}
+
+
+tr{
+    background-color: aqua;
+}
+
+tr:nth-child(even) {    background-color: white;}
+
+
+
+
+
+
