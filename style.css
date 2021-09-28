@@ -1,4 +1,6 @@
 body{
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 header{
@@ -6,9 +8,27 @@ header{
     background-repeat: repeat-x;
 }
 
-img{
+.logo{
     width: 200px;
     height: auto;
     padding-left: 5px;
     padding-bottom: 10px;
 }
+
+.inter{
+    padding-right: 24%;
+
+}
+
+.scritto{
+    padding-right: 77%;
+}
+
+#blue{
+    color: aqua;
+}
+
+#low{
+    font-size: 12px;
+}
+
